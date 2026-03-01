@@ -6,7 +6,7 @@ import './App.css'
 
 // Pink, Cream, and Brown 
 // Cutesy
-// Find out other features.
+// Find out other features
 
 function App() {
   const [count, setCount] = useState(0)
